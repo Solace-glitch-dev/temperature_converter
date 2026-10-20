@@ -5,6 +5,7 @@
 # How to run it:  python temperature_converter.py
 
 # Ask the user for a temperature in Celsius
+print("Caution. This program is only intended for temperature changes.")
 celsius = float(input("Temperature in Celsius: "))
 
 # Convert to Fahrenheit
